@@ -9,7 +9,8 @@ A Geode mod for Geometry Dash 2.2081 (Windows): build a level together with your
   The host can slide the lines to resize parts, and Lock zones keeps everyone in their own part.
 - Rooms stay up when the host leaves and are kept for 14 days, so you can come back with the code.
 - Save and Play or leaving the editor keeps you in the room; start positions are personal.
-- The host can kick or ban people, and unban them from the Banned list.
+- The host can kick or ban people, and unban them from the Banned list. Whoever created the room
+  is host again every time they come back.
 
 ## Install
 
